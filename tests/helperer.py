@@ -1,7 +1,7 @@
 import random
 import string
 
-url = 'http://api.staging.registrarengine.com/'
+url = SwaggerShort
 
 
 def sld():
